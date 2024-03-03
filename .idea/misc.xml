@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/drawable/bigger_circle_avatar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/drawable/rounded_border_rectangle_again.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/drawable/rounded_border_rectangle_firse.xml" value="0.162" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/drawable/rounded_card.xml" value="0.125" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/drawable/rounded_edittext.xml" value="0.162" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/drawable/rounded_search_view_bar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/layout/activity_home.xml" value="0.17777777777777778" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/layout/fragment_dashboard.xml" value="0.18385416666666668" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/layout/fragment_home.xml" value="0.18385416666666668" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/layout/item.xml" value="0.3797709923664122" />
+        <entry key="..\:/AndroidStudioProjects/Greendzine1/Greendzine/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18020833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
