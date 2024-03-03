@@ -8,7 +8,3 @@
 <p align="center">
   <strong>Search, Discover, and Boost Productivity with Employee Insights!</strong>
 </p>
-
-<p align="center">
-  <img src="https://your-image-url-here.jpg" alt="Demo of Project" width="300">
-</p>
